@@ -1,4 +1,5 @@
-///Code written by Tanmay Agarwal
+///Code written by Tanmay Agarwal.
+///This code is for Making a digital clock using 6 seven segment displays 
 
 int a,b,c,d,e,f,g,W,X,Y,Z,i,j,thispin,min0,min1,ar,arc=0;
 int A=0,B=0,C=0,D=0;
