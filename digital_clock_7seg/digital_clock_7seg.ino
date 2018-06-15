@@ -1,3 +1,5 @@
+///Code written by Tanmay Agarwal
+
 int a,b,c,d,e,f,g,W,X,Y,Z,i,j,thispin,min0,min1,ar,arc=0;
 int A=0,B=0,C=0,D=0;
 int ledpins[]={2,3,4,5,6,7,8,9,10,11,12,13,1};
